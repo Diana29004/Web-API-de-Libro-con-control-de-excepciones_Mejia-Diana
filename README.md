@@ -4,6 +4,7 @@ Creamos una carpeta com_tuuniversidad_exceptions e implementmos dos clases Globa
 ![image](https://github.com/Diana29004/Web-API-de-Libro-con-control-de-excepciones_Mejia-Diana/assets/170267544/f8fd353e-94fb-47fd-999f-c5d58a5d4161)
 # Visualización
 GlobalExceptionHandler.java
+
 ![image](https://github.com/Diana29004/Web-API-de-Libro-con-control-de-excepciones_Mejia-Diana/assets/170267544/6678158f-25fa-4f1e-81b6-c2d285ed790a)
 # Presentación de LibroException.java
 ![image](https://github.com/Diana29004/Web-API-de-Libro-con-control-de-excepciones_Mejia-Diana/assets/170267544/1ac4eb56-eb80-4ff9-9447-3178235cc233)
